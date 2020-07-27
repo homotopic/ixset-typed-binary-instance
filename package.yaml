@@ -1,0 +1,24 @@
+name:                ixset-typed-binary-instance
+version:             0.1.0.0
+license:             MIT
+git:                 https://gitlab.com/homotopic-tech/ixset-typed-binary-instance
+author:              "Daniel Firth"
+maintainer:          "dan,firth@homotopic.tech"
+copyright:           "2020 Daniel Firth"
+
+extra-source-files:
+- README.md
+- ChangeLog.md
+
+synopsis:            Binary instance for ixset-typed.
+category:            Data Structures
+
+description:         Please see the README on GitHub at <https://gitlab.com/homotopic-tech/ixset-typed-binary-instance/README.md>
+
+dependencies:
+- base >= 4.7 && < 5
+- binary
+- ixset-typed
+
+library:
+  source-dirs: src

@@ -1,3 +1,11 @@
+{- |
+   Module     : Data.IxSet.Typed.Binary
+   License    : MIT
+   Stability  : experimental
+
+Binary instance for ixset-typed.
+-}
+
 module Data.IxSet.Typed.Binary where
 
 import Data.Binary

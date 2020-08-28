@@ -5,7 +5,7 @@
 
 Binary instance for ixset-typed.
 -}
-
+{-# OPTIONS_GHC -fno-warn-orphans #-}
 module Data.IxSet.Typed.Binary where
 
 import Data.Binary

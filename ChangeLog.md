@@ -1,3 +1,5 @@
 # Changelog for ixset-binary-instance
 
-## Unreleased changes
+## v0.1.0.0
+
+* Add binary instance for ixset-typed.
